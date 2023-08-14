@@ -6,10 +6,10 @@
 5. To personify the archetype of the hyperborean chad 
 
 ## RTTL: Community vision 
-We seeks to create a decentralized movement, formed of various individuals and societies, dedicated to preserving our culture and way of life. 
+We seek to create a decentralized movement, formed of various individuals and societies, dedicated to preserving European culture and way of life. We will promote strong families, and raise awareness to the issues facing us today. 
 
 ## RTTL: Community Mission 
-To preserve and promote European families. 
+To preserve and promote the continued existence of European families. 
 
 ## RTTL: Community Goals 
 1. To facilitate individuals and groups purchasing land in rural areas
