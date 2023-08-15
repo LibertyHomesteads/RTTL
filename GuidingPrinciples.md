@@ -12,6 +12,7 @@ We will return to the land to separate ourselves from a corrupted modern society
 5. To cultivate wholesomeness, beauty, health, and hope in a trying world
 
 ## RTTL: Guidelines for Communities
+*This section was written using notes from the Asha Logos video "A Call to Return to the Land," with input from RTTL members.*  
 
 ## Primary goals  
 * Return to the land, return to hard assets
