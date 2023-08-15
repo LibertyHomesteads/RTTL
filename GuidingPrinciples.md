@@ -10,7 +10,7 @@ To preserve and promote the continued existence of European families.
 3. To create fully-functioning parallel societies in all areas inhabited by Europeans. 
 
 ## RTTL: Community Values 
-#### Tier System: Descending 
+#### Tier System: Count-based 
 
 1. European ethnic heritage and homogeneity 
 2. Heterosexuality
