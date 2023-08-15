@@ -14,22 +14,25 @@ We will return to the land to separate ourselves from a corrupted modern society
 ## RTTL: Guidelines for Communities
 *This section was written using notes from the Asha Logos video "A Call to Return to the Land," with input from RTTL members.*  
 
-## Primary goals  
+### Primary goals of an RTTL Community
 * Return to the land, return to hard assets
 * Simplicity (A Call to Return to the Land 25:00)  
-     * Food closer to the source, water with less treatment and no artificial additives
-     * Homes and construction less synthetic and less processed, can be made by community
-     * Ultimate goal to make almost everything within the community or at most trading with neighbors
-     * "Govern wisely and as little as possible!" – Sam Houston
+     * **Food and water:** Closer to the source, with less treatment/processing and no artificial additives
+     * **Homes and construction:** Less synthetic, more natural materials, can be built by the community
+     * **Ultimate goal:** To produce almost everything within the community or at most trading with neighbors
+     * **Governance:** *"Govern wisely and as little as possible!"* – Sam Houston
+* Economic system framework
+     * Focus on barter and/or alternative currencies such as gold and silver
+     * Parallel institutions
+     * Direct exchange within community
+     * Establish trading relationships with nearby communities
+     * Community centers as trading hubs 
 * Embrace creation and construction, eliminate parasitism
      * Everyone should teach, learn, and/or do
      * Apprenticeship model may be central
 * Encourage and support a strong family unit (A Call to Return to the Land 26:50)
      * Foundational of the larger community
      * Ease the burden of parents with community programs like sports and clubs
-* Barter system framework
-     * Parallel cashless institutions
-     * Direct exchange within community, communities as hubs with nearby communities
 * Intentional direction of societal structures away from profit and toward health
      * Community organized sports and gyms
      * Fostering friendships and relationships
@@ -38,7 +41,9 @@ We will return to the land to separate ourselves from a corrupted modern society
      * Not just an escape for a small group
      * To help all good, genuine, likeminded individuals
 * Encourage beauty in all actions
-## Practical
+   
+### Practical Issues  
+  
 * Create a fund to build pockets of communities
      * Start farms
      * Construct buildings for infrastructure
@@ -50,14 +55,18 @@ We will return to the land to separate ourselves from a corrupted modern society
      * Do not devolve into just farming not knowing what community involvement goes
 * Must resist cults of personality
 * Ideology must be flexible within culture and rigid outside
-## Selected desired outcomes
+
+  
+### Selected desired outcomes
 * Facilitate isolation from disruptive and destructive politics
 * Facilitate isolation from perverse mass and social media
 * Facilitate meeting and social interaction leading to happy stable marital relationships
 * Encourage well-rounded educations including "hidden history" both ancient and recent
 * Encourage an independent mindset, self-actualized anarchy harnessed to productive participation
 * General goal of reclaiming the land (in a sense of restoring functionality or recovering ownership?)
-## Likely problems
+  
+    
+### Likely problems
 * Taxes, IRS expects money for barter
 * Could devolve into communism
 * Community needs strong leaders to keep out leeches
