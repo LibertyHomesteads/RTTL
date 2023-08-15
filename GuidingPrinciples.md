@@ -8,7 +8,8 @@ We will return to the land to separate ourselves from a corrupted modern society
 1. To facilitate individuals and groups that share common ancestry to purchase land in rural areas
 2. To facilitate media activities to promote our movement 
 3. To create many independent and fully-functioning parallel societies
-4. To teach, share, and develop successful methods of garnering independence and building community.
+4. To teach, share, and develop successful methods of garnering independence and building community 
+5. To cultivate wholesomeness, integrity, and hope in a trying world
 
 ## RTTL: Community Values 
 #### Tier System: Count-based 
