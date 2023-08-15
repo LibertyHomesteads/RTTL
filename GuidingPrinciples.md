@@ -15,3 +15,7 @@ To preserve and promote the continued existence of European families.
 1. European ethnic heritage and homogeneity 
 2. Heterosexuality
 3. Religion/philosophy that is historically and unquestionably European
+4. Traditional gender roles 
+5. Rural land
+6. Homeschooling
+7. Natural birth 
