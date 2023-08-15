@@ -9,4 +9,9 @@ To preserve and promote the continued existence of European families.
 2. To facilitate media activities to promote our Five Principles.
 3. To create fully-functioning parallel societies in all areas inhabited by Europeans. 
 
+## RTTL: Community Values 
+#### Tier System: Descending 
 
+1. European ethnic heritage and homogeneity 
+2. Heterosexuality
+3. Religion/philosophy that is historically and unquestionably European
