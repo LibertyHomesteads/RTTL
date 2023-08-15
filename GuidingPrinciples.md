@@ -1,8 +1,8 @@
 ## RTTL: Community vision 
-We seek to create a decentralized movement, formed of various individuals and societies, dedicated to continuing European identity. We will promote strong families, and foster the next generation in an environment that reflects our values. We will facilitate economic and social harmony between all groups and individuals in our movement. 
+We seek to create a decentralized movement, formed of various individuals and societies, returning to the land, and dedicated to continuing European identity. We will promote strong families, and foster the next generation in an environment that reflects our values. We will facilitate economic and social harmony between all groups and individuals in our movement. 
 
 ## RTTL: Community Mission 
-To preserve and promote the continued existence of European families. 
+We will return to the land to separate ourselves from a corrupted modern society, and to enable ourselves to cultivate positive cultural changes in ourselves and our communities.
 
 ## RTTL: Community Goals 
 1. To facilitate individuals and groups purchasing land in rural areas
