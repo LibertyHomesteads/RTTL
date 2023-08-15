@@ -13,10 +13,10 @@ We will return to the land to separate ourselves from a corrupted modern society
 
 ## RTTL: Guidelines for Communities
 
-Primary goals
-• Return to the land, return to hard assets
-• Simplicity (A Call to Return to the Land 25:00)
-○ Food closer to the source, water with less treatment and no artificial additives
+Primary goals  
+* Return to the land, return to hard assets
+* Simplicity (A Call to Return to the Land 25:00)
+    * Food closer to the source, water with less treatment and no artificial additives
 ○ Homes and construction less synthetic and less processed, can be made by community
 ○ Ultimate goal to make almost everything within the community or at most trading with neighbors
 ○ "Govern wisely and as little as possible!" – Sam Houston
