@@ -16,8 +16,8 @@ We will return to the land to separate ourselves from a corrupted modern society
 
 
     
-## RTTL: Guidelines for Communities
-*This section was written using notes from the Asha Logos video "A Call to Return to the Land," with input from RTTL members.*  
+# RTTL: Guidelines for Communities
+#### This section was written using notes from the Asha Logos video "A Call to Return to the Land," with input from RTTL members.  
 
 ### Primary goals of an RTTL Community
 * Return to the land, return to hard assets
