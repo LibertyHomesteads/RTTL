@@ -45,10 +45,15 @@ We will return to the land to separate ourselves from a corrupted modern society
 ### Practical Issues  
   
 * Raise funds to purchase land and build infrastructure
-     * Determine legal structure and framework
+     * Determine legal structure and framework options
      * Write organizational documents for each community (RTTL can provide templates) 
      * Use generally accepted accounting principles for transparency
-     * Avoid one "trusted individual" handling large amounts of funds on behalf of the group, whether as cash or in personal accounts 
+     * Avoid one "trusted individual" handling large amounts of funds on behalf of the group, whether as cash or in personal accounts
+* Land ownership options:
+    * Single-owner lands uniting with a PMA agreement
+    * Groups buying land as an LLC or trust
+    * Groups buying land under tenency-in-common
+    * Facilitate options for smallholders and those without sufficient funds 
 * Find people/families to purchase and live on that land
     * Varying schemes such as ownership, lease, rent, sweat equity, etc
 * Attract and consult experts in restoring land and fixing degenerated ecosystems
@@ -62,7 +67,6 @@ We will return to the land to separate ourselves from a corrupted modern society
     * No purity spiraling 
     * No concern trolling 
 
-  
 ### Selected desired outcomes
 * Facilitate isolation from disruptive and destructive politics
 * Facilitate isolation from perverse mainstream media / social media
@@ -73,7 +77,7 @@ We will return to the land to separate ourselves from a corrupted modern society
   
     
 ### Likely problems
-* Taxes, IRS expects money for barter (RTTL should provide resources and guidelines) 
+* Taxes, IRS regulates barter (RTTL should provide resources and guidelines. PMA can allow for alternative currencies.) 
 * Permits, regulations, zoning laws (RTTL should provide resources and guidelines) 
 * Could devolve into communism
 * Community needs strong leaders to keep out leeches
