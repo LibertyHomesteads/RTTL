@@ -19,7 +19,7 @@ We will return to the land to separate ourselves from a corrupted modern society
 * Simplicity (A Call to Return to the Land 25:00)  
      * **Food and water:** Closer to the source, with less treatment/processing and no artificial additives
      * **Homes and construction:** Less synthetic, more natural materials, can be built by the community
-     * **Ultimate goal:** To produce almost everything within the community or at most trading with neighbors
+     * **Ultimate goal:** To produce a large part of our consumables within the community or by trading with neighbors
      * **Governance:** *"Govern wisely and as little as possible!"* – Sam Houston
 * Economic system framework
      * Focus on barter and/or alternative currencies such as gold and silver
@@ -44,35 +44,41 @@ We will return to the land to separate ourselves from a corrupted modern society
    
 ### Practical Issues  
   
-* Create a fund to build pockets of communities
-     * Start farms
-     * Construct buildings for infrastructure
-* Find people/families to work that land
-* Find experts in restoring land and fixing degenerated ecosystems
+* Raise funds to purchase land and build infrastructure
+     * Determine legal structure and framework
+     * Write organizational documents for each community (RTTL can provide templates) 
+     * Use generally accepted accounting principles for transparency
+     * Avoid one "trusted individual" handling large amounts of funds on behalf of the group, whether as cash or in personal accounts 
+* Find people/families to purchase and live on that land
+    * Varying schemes such as ownership, lease, rent, sweat equity, etc
+* Attract and consult experts in restoring land and fixing degenerated ecosystems
 * Build clubs of like-minded people around a common interest
-* Meta mission/feeding factors
-     * Most or all need to know generally what others are doing that supports
-     * Do not devolve into just farming not knowing what community involvement goes
-* Must resist cults of personality
-* Ideology must be flexible within culture and rigid outside
+* Meta mission/feeding factors:
+     * Most or all members generally need to know what others are doing that supports the community
+     * Do not devolve into just farming, community involvement and development is essential
+* Ideology:  
+    * Must resist cults of personality
+    * Ideology must be flexible within culture and rigid outside
+    * No purity spiraling 
+    * No concern trolling 
 
   
 ### Selected desired outcomes
 * Facilitate isolation from disruptive and destructive politics
-* Facilitate isolation from perverse mass and social media
-* Facilitate meeting and social interaction leading to happy stable marital relationships
-* Encourage well-rounded educations including "hidden history" both ancient and recent
-* Encourage an independent mindset, self-actualized anarchy harnessed to productive participation
-* General goal of reclaiming the land (in a sense of restoring functionality or recovering ownership?)
+* Facilitate isolation from perverse mainstream media / social media
+* Facilitate meeting and social interaction leading to happy, stable marital relationships
+* Encourage well-rounded education including "hidden history," both ancient and recent
+* Encourage an independent mindset, self-actualized agency harnessed to productive participation
+* General goal of returning to and reclaiming the land (in a sense of restoring functionality, recovering ownership, building community)
   
     
 ### Likely problems
-* Taxes, IRS expects money for barter
+* Taxes, IRS expects money for barter (RTTL should provide resources and guidelines) 
+* Permits, regulations, zoning laws (RTTL should provide resources and guidelines) 
 * Could devolve into communism
 * Community needs strong leaders to keep out leeches
 * Strong leaders can devolve to fascism and personality cults
-* Where do you get fuel for farming?
-* Where do you get electronic controllers?
-* What about medicine? Home remedies are great, but it will eventually be necessary.
+* Community needs to be able to kick out problematic members who will not reform, without draining the social atmosphere causing good people to leave 
+* Very low tolerance for disruptive individuals 
 
 
