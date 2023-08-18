@@ -28,7 +28,7 @@
 
 **Code of Conduct:** I will follow the code of conduct that is part of the RTTL Articles of Association.  
 
-**Pursuit of Excellence:**  I will try to be the absolute best versions of myself for the benefit of the Association. I will consistently strive for excellence and beauty in all things.  
+**Pursuit of Excellence:**  I will try to be the absolute best version of myself for the benefit of the Association. I will consistently strive for excellence and beauty in all things.  
 
 **Services, Products, and Provider-Client Relationships:** I understand that those Members of RTTL that provide services, products, or advice do so in the capacity of fellow Member Facilitators in a private manner and not in any public capacity. I understand that within RTTL,no Public Doctor-Patient or Public Provider-Client relationships exist, nor do any Contractor-Client, Vendor-Client, Tenant-Landlord, Lesser-Lessee relationships or similar, unless a separate agreement is drafted between individuals or organizations specifically waiving this Memorandum and the relevant Article of the RTTL Articles of Association, and in that case such waiver shall only exist in that specific circumstance between those specific individuals/organizations. Within RTTL, I freely choose to change my legal status from that of a Public Person to that of a Private Membership Association individual. I realize that in doing so I relinquish certain Federal and State protections and privileges, and I do so with full knowledge and consent thereof.
 
