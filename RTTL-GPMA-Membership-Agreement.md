@@ -7,8 +7,13 @@
   
 ### PREAMBLE 
 
-**I hereby apply for Membership** in Return To The Land, (hereinafter known as RTTL), a Private Membership Association. With the signing of this agreement I accept the offer made to become a Member and I express my agreement with the following Declaration and Memorandum of Understanding:
+**I hereby apply for Membership** in Return To The Land, (hereinafter known as RTTL), a Private Membership Association. With the signing of this agreement I accept the offer made to become a Member and I express my agreement with the following Guiding Principles, Declaration, and Memorandum of Understanding:
 
+### GUIDING PRINCIPLES 
+*(To be added when they are finalized)*
+### Community Vision: 
+### Community Mission: 
+### Community Goals: 
 ### DECLARATION
 
 1. This Private Association of Members hereby declares that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
