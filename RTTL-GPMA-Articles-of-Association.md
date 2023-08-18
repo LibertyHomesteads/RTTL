@@ -85,7 +85,7 @@
 
 ## Final Provisions and Establishment 
 
-We, the undersigned members of the Board of Trustees, hereby ratify and establish this association in accordance with the regulations and provisions set forth in this Articles of Association document. With a shared commitment to our stated goals and objectives, we declare this association's establishment for perpetuity. We pledge to uphold the principles and guidelines outlined herein, working collectively to achieve our mission.
+We, the undersigned members of the Board of Trustees, hereby ratify and establish this Association in accordance with the regulations and provisions set forth in this Articles of Association document. With a shared commitment to our stated goals and objectives, we declare this Association's establishment for perpetuity. We pledge to uphold the principles and guidelines outlined herein, working collectively to achieve our mission. **We pledge to Return to the Land.** 
 
 Duly endorsed and enacted on this [Date] day of [Month], [Year].
 
