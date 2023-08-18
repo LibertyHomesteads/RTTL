@@ -3,7 +3,8 @@
 # Articles of Association 
   
   
-# Preamble: Guiding Principles
+# Preamble: Guiding Principles 
+*(To be added when they are finalized)*
 ### Community Vision: 
 ### Community Mission: 
 ### Community Goals: 
