@@ -73,13 +73,27 @@
 11. A Member must pay a fine of $500,000 to RTTL if the member joins this Association under false pretenses; for example, for the purposes of disruption, information collection, or encouragement of illegal activities, on behalf of a federal, state, or private entity. Such member waives any right to qualified immunity if the member is a law enforcement officer or has entered into a qualified immunity or similar agreement with any law enforcement or similar government agency, and will pay the fine in full within 30 days of notification, and will pay any legal fees that RTTL incurs in its collection efforts against the member. The member shall personally pay the fine and waive any legal right they may have to pass this fine onto their employer, contractor, or handler. 
 
 
-# Article VII. Amendments and Restatements 
+## Article VII. Amendments and Restatements 
 1. An amendment may be submitted by any member to all the members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
 2. A restatement (defined as editing any existing text of the Articles of Association) may be submitted only by the Board of Trustees to all members for their ratification. If the Association achieves ratification of three-fourths (3/4) of the members that existed at the time the amendment was first submitted, the amendment will become a part of the Articles of Association and be binding upon all members within one year of passing the amendment. 
 3. The Membership Agreement and other documents may be amended or restated at any time by a majority vote of the Board of Trustees effective immediately, but is only binding to members who sign the new agreement. 
 
-# Article VIII. Dissolution 
+## Article VIII. Dissolution 
 1. **Severance Clause:** In the event that any provision of this agreement, including any bylaws, rules, or regulations adopted pursuant to this agreement, is held to be invalid, illogical, contradictory, or unenforceable, the remaining provisions of this agreement shall remain in full force and effect. The parties hereby agree to replace any invalid, illogical, contradictory, or unenforceable provision with a valid and enforceable provision that comes closest to the original intent of the provision being replaced. Any such replacement shall not affect the overall purpose and objectives of this Private Membership Association, and the Association shall continue to operate in accordance with its remaining provisions. Any such replacement or provision shall not be considered as grounds to dissolve this Association or declare these Articles invalid.
 2. **Voluntary Dissolution:** Via a 90% vote of the Members, or a unanimous vote of the Board of Trustees, this Association may be dissolved, with its assets being distributed at the discretion of the board, with the aim and intent of furthering the goals of this Association.
-3. **Involuntary Dissolution:** This Association is constitutionally protected from any involuntary dissolution ordered or requested by any government or private entity, with the only exception being the Voluntary Dissolution process listed in this Article. All Members are protected from any penalties imposed by any government or private entity for refusal to dissolve ths Association. Via these Articles of Association, all Members declare their right to free association, and thus the right to form and continue this Association in perpetuity, to be inalienable. 
+3. **Involuntary Dissolution:** This Association is constitutionally protected from any involuntary dissolution ordered or requested by any government or private entity, with the only exception being the Voluntary Dissolution process listed in this Article. All Members are protected from any penalties imposed by any government or private entity for refusal to dissolve ths Association. Via these Articles of Association, all Members declare their right to free association, and thus the right to form and continue this Association in perpetuity, to be inalienable.
+
+## Final Provisions and Establishment 
+
+We, the undersigned members of the Board of Trustees, hereby ratify and establish this association in accordance with the regulations and provisions set forth in this Articles of Association document. With a shared commitment to our stated goals and objectives, we declare this association's establishment for perpetuity. We pledge to uphold the principles and guidelines outlined herein, working collectively to achieve our mission.
+
+Duly endorsed and enacted on this [Date] day of [Month], [Year].
+
+[Signature of Trustee 1]                             [Signature of Trustee 2]                             [Signature of Trustee 3]
+
+[Name of Trustee 1]                                  [Name of Trustee 2]                                  [Name of Trustee 3]
+
+[Title of Trustee 1]                                    [Title of Trustee 2]                                    [Title of Trustee 3]
+
+  
 
