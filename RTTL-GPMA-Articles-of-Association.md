@@ -3,12 +3,12 @@
 # Articles of Association 
   
   
-# Preamble: Guiding Principles 
+## Preamble: Guiding Principles 
 *(To be added when they are finalized)*
 ### Community Vision: 
 ### Community Mission: 
 ### Community Goals: 
-# Article I. Declaration
+## Article I. Declaration
 1. This Private Association of Members hereby declare that our primary purpose is to protect and maintain our right to freedom of choice regarding the conduct of business and management of our assets by asserting our constitutional, contractual, and civil rights under the Supreme Creator, the Common Law and the Constitution of the United States of America. 
 2. All Members affirm their belief that the Constitution of the United States guarantees all Americans, particularly Members of Private Membership Associations, the right of freedom of association, speech, contract, assembly, belief, and associated activities, and that these are among our inalienable rights.
 3. All Members, as part of a constitutionally-protected Private Membership Association, affirm doubly the right of freedom of association, and hereby waive their rights to protection against discrimination for any reason under any anti-discrimination law, state, federal, or international, including but not limited to the Civil Rights Act of 1964 and the Fair Housing Act of 1968. All members of this Association understand that they may be discriminated against for any reason including that they may be a member of a protected class, and hereby waive their right to take legal action against this Association or its members, for exercising their constititutionally protected right to free association inside of an exclusive Private Membership Association that is not open to the general public. 
