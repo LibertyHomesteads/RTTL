@@ -1,12 +1,10 @@
 # Membership Agreement 
 ## Return to the Land 
 ### Private Membership Association 
-*(Regional PMAs will be titled as such, so we will have RTTL GPMA and RTTL "name of region" RPMA, etc.)*
 
-### Notes: 
-* Add that the member has read and agrees to follow the Articles of Association 
-* The member waives rights to protection under any and all anti-discrimination laws, etc 
+*This document pertains to the global, umbrella RTTL organization. Seperate PMA structures will be created for regional groups.* 
 
+  
 ### PREAMBLE 
 
 **I hereby apply for Membership** in Return To The Land, (hereinafter known as RTTL), a Private Membership Association. With the signing of this agreement I accept the offer made to become a Member and I express my agreement with the following Declaration and Memorandum of Understanding:
