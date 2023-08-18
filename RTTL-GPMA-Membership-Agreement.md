@@ -21,6 +21,10 @@
 
 ### MEMORANDUM OF UNDERSTANDING
 
+**Code of Conduct:** I will follow the code of conduct that is part of the RTTL Articles of Association.  
+
+**Pursuit of Excellence:**  All members of this Association must try to be the absolute best versions of themselves for the benefit of our Association. All Members must consistently strive for excellence and beauty in all things.  
+
 **Services, Products, and Provider-Client Relationships:** I understand that those Members of RTTL that provide services, products, or advice do so in the capacity of fellow Member Facilitators in a private manner and not in any public capacity. I understand that within RTTL,no Public Doctor-Patient or Public Provider-Client relationships exist, nor do any Contractor-Client, Vendor-Client, Tenant-Landlord, Lesser-Lessee relationships or similar, unless a separate agreement is drafted between individuals or organizations specifically waiving this Memorandum and the relevant Article of the RTTL Articles of Association, and in that case such waiver shall only exist in that specific circumstance between those specific individuals/organizations. Within RTTL, I freely choose to change my legal status from that of a Public Person to that of a Private Membership Association individual. I realize that in doing so I relinquish certain Federal and State protections and privileges, and I do so with full knowledge and consent thereof.
 
 **Liability:** I understand that it is my personal responsibility to evaluate the services, products, or advice offered and to educate myself as to the efficacy, risks, or desirability. I agree that the actions I take in this regard are of my own free will. If I am accepted for Membership, I will exercise my rights for my own benefit and agree to hold harmless RTTL and Member Facilitators from any unintentional liability that might result from the advice or services I receive, except from any harm that could remotely result from an instance of deliberate fraud or “a clear and present danger of substantive evil” as determined by RTTL and defined by the United States Supreme Court.
