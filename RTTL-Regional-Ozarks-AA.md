@@ -33,10 +33,10 @@
 3. Participation in this Association, and services and benefits from this Association, are limited to members only. It is not open to the general public.
 4. A Private Membership Association protects the freedom of choice and association of its Members as stated in the 1st and 14th Amendments of the U.S. Constitution.
 5. The Association shall adhere to RTTL certification standards for Member Associations, whether binary or tier-based, including but not limited to the following:
-    * That this Association must have well-written founding documents meeting specific standards
-    * That this Association must statutize its relationship with any RTTL parent Association and the limited authority of the parent association
-    * That this Association have an active Board of Trustees or equivalent
-    * That this Association act as a Private Club, with exclusive membership criteria, and that it may not be open to the general public
+     * That this Association must have well-written founding documents meeting specific standards
+     * That this Association must statutize its relationship with any RTTL parent Association and the limited authority of the parent association
+     * That this Association have an active Board of Trustees or equivalent
+     * That this Association act as a Private Club, with exclusive membership criteria, and that it may not be open to the general public
 6. This Association may set criteria for Member Projects such as group land buy associations and Limited Liability Corporations
 
 ## Article III. Management 
