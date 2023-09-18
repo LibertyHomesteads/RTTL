@@ -41,15 +41,15 @@
 
 ## Article III. Management 
 1. **Vested Management Powers:** All Members of the Association vest the full management power of the Association in a Board of Trustees. The Board shall carry out the general operations of the Association, with the power to make all decisions except those specifically vested in the members elsewhere in these Articles of Association. 
-2. **Board of Trustees:** The Board of Trustees shall consist of 5 members: The President, the Vice President, the Secretary, and the Treasurer, and the Member At Large. They shall fulfill the traditional roles of these positions, including any tasks or roles indicated elsewhere in these Articles. Their terms shall be indefinite unless they resign, are recalled, or are replaced. 
+2. **Board of Trustees:** The Board of Trustees shall consist of 5 members: The President, the Vice President, the Secretary, the Treasurer, and the Member At Large. They shall fulfill the traditional roles of these positions, including any tasks or roles indicated elsewhere in these Articles. Their terms shall be indefinite unless they resign, are recalled, or are replaced. 
 3. **Replacement of Trustees:** The board may replace a Trustee who resigns, becomes incapacitated, or shows serious negligence or failure in the ability to perform their duties, by a majority vote of the remaining board members. In the case of a tie, the Trustee shall be replaced. In the case of a tie vote when selecting a replacement, the board shall select a different replacement that can win a majority vote. 
 4. **Member Recall:** If 2/3 of the members of the Association vote to end the term of a Trustee, that Trustee's term shall therefore be ended, and the Board of Trustees shall select a suitable replacement.
 5. **Initial Board Members:**
-  * President: 
-  * Vice President: 
-  * Secretary: 
-  * Treasurer: 
-  * Member at Large: 
+     * President: 
+     * Vice President: 
+     * Secretary: 
+     * Treasurer: 
+     * Member at Large: 
 ## Article IV. Membership 
 1. **New Members:** To join, Members must apply, be accepted by a majority vote of the Board of Trustees or their delegates, review and sign a Membership Agreement, and must also review these Articles of Association. Exclusive and limiting criteria for new members shall be established by the Board of Trustees at their discretion in a formal document. 
 3. **Individual Dues and Term:** New individual members must pay a $10 fee for membership in the Association, which is valid until death or until revocation by the Board of Trustees. Dues are non-refundable. Membership dues are an important legal criteria to be considered as a bona fide Private Membership Association.
